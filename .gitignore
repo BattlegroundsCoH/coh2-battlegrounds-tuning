@@ -1,0 +1,15 @@
+# Company of Heroes 2 Files
+*.rgd
+*.sga
+BurnInfoCache.xml
+*-LinkReport.xml
+*-FlexConfig.xml
+*-Config.xml
+
+# Other files types we wish to ignore
+*.psd
+
+*Intermediate Cache/
+Intermediate Files/[Aa]ttrib/
+db-battlegrounds/workshop-map-db.json
+tuning_mod/locale/english/english.ucs
